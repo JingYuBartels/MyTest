@@ -1,0 +1,10 @@
+*.html
+env/*
+.idea/*
+*.log
+.idea/vcs.xml
+env/lib/python3.6/site-packages/HTMLTestRunner.py
+practise.py
+*.pyc
+
+
