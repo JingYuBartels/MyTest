@@ -8,7 +8,7 @@ def send_mail(test_report):
     receive_address = 'bartelsjingyu@126.com'
     body = 'Hi, there! Attachment is the latest automatin testing report. Please review!'
     username = sent_address
-    password = 'Chang820124'
+    password = 'XXXXX'
 
     with open(test_report, 'rb') as f:
         file_message = f.read()
